@@ -1,4 +1,4 @@
-# new_calculator
+#Flutter Calculator
 
 A Simple Flutter Calculator App.
 

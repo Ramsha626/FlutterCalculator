@@ -84,7 +84,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         title: '%',
                         color: Colors.deepOrangeAccent,
                         onPress: () {
-
+                          userInput += '%';
                           setState(() {});
                         },
                       ),
